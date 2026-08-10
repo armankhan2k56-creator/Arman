@@ -32,7 +32,6 @@ requests.urllib3.disable_warnings()
 
 # --- Configuration ---
 FIREBASE_URL = "https://my-cloning-tool-default-rtdb.firebaseio.com/"
- WA_LINK = "https://wa.me/923022745249"
 
 
 # TELEGRAM CONFIGURATION
